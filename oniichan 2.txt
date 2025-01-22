@@ -1,3 +1,5 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/OniiChanVanThanhIOS/refs/heads/main/main.txt"))()
+
 local Window = Library:CreateWindow('Việt hoàng iOS and minh phúc adr/ Ver_2')
 
 local Tab = {
